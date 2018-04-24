@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: A Coding Journey
 header-img: img/home-bg.png
 email: annabelwilmerding@gmail.com
 copyright_name: Awilmerding1
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Experiences at Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Awilmerding1
