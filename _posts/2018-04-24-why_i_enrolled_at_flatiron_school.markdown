@@ -1,0 +1,12 @@
+---
+layout: post
+title:      "Why I Enrolled at Flatiron School"
+date:       2018-04-24 19:28:35 +0000
+permalink:  why_i_enrolled_at_flatiron_school
+---
+
+
+I first heard about computer programming in highschool after my cousin's middle school hosted a lecture on coding.  Although my literature-loving cousin had no interest in learning more, my uncle was hooked.  He immediately recognized the incredibly important role that computer programming plays, and will continue to play, in our society.  As I was beginning the college application process, my uncle strongly encouraged me to take a computer science course.  Instead of finding out exactly what a computer programming course would entail, I concluded that it would be of no interest to me.  When I entered Trinity College as a Freshman, I had an idyllic notion that I would become passionate about a particular subject.  I had to declare a major at the beginning of my sophmore spring semester and still had not found a subject that excited me.  I landed on Political Science which was one of the default majors for people, like me, who had no idea what they wanted to do after graduation.  Although I truly did enjoy my classes and assignments, I never felt that I had found my calling.
+
+Since I did not want to pursue a career related to politics, I tried to extend my passion for the environment to a career and I ended up working at a clean energy development start-up.  A year later, the company was still struggling to get off the ground and eventually fell apart which was a blessing in disguise for me because I was still feeling underchallenged and unexcited.  I began working part-time at a clean energy venture capital firm and spending hours looking for job descriptions that were appealing to me.  In January I was talking to a friend who casually mentioned that she knew someone who was taking a computer programming bootcamp.  I did some research on different computer programming jobs and discovered that I have many of the characteristics that make a good web developer: I'm extremely rational, I enjoy problem solving, and I love to learn.  I realized I had nothing to lose so I began taking free introductory courses online.  Within minutes I had my clichéd "aha moment" in which I knew I had found a way to make a career out of something that I love doing.  Although I could have saved a lot of time if I had listened to my uncle years ago, I am glad that I got a taste of the types of careers that are not of interest to me.  I am excited to be on this journey!
+
