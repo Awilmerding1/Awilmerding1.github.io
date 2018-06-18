@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Art of Simplification"
-date:       2018-06-18 15:18:46 +0000
+date:       2018-06-18 11:18:47 -0400
 permalink:  the_art_of_simplification
 ---
 
