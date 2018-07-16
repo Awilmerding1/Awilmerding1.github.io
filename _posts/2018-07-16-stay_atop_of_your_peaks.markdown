@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Stay Atop of Your Peaks"
-date:       2018-07-16 16:24:20 +0000
+title:      "Peaks and Valleys"
+date:       2018-07-16 12:24:21 -0400
 permalink:  stay_atop_of_your_peaks
 ---
 
@@ -19,4 +19,5 @@ At one point after I had completed a significant portion of my application, I be
 After many days filled with ups and downs, I feel ready to submit my application.  I have everything working as I hoped it would and I have completed all the project requirements.  There is no rule against hiking a peak more than once.  If I become a 46er, will I not hike any of those mountains again? Just because I have created a functioning application, should I never go back to make changes to it?  An accomplished goal does not mean the end of the journey.  Instead, it provides an opportunity to go back and improve what you have already done.  If I learn something new that would improve my code, why not go back and implement it into my application?  If i have the opportunity to hike a mountain again under better circumstances than before, why not make a new memory?
 
 The hiking cliché is a cliché for a reason: all journeys have their peaks and valleys, their unique challenges and moments of satisfaction.  Whether I am hiking or coding I try to remind myself that no matter how hard it is to find, there is always a solution to the problem, an end to the journey.  
+
 
