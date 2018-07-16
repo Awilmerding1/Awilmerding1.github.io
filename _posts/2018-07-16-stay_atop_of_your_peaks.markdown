@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Stay Atop Your Peaks"
+title:      "Peaks and Valleys"
 date:       2018-07-16 12:24:21 -0400
 permalink:  stay_atop_of_your_peaks
 ---
