@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Reader Becomes the Author"
-date:       2018-08-22 20:38:37 +0000
+date:       2018-08-22 16:38:38 -0400
 permalink:  the_reader_becomes_the_author
 ---
 
