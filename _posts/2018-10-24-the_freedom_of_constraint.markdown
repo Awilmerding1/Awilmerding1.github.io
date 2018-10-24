@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Freedom of Constraint"
-date:       2018-10-24 19:17:09 +0000
+date:       2018-10-24 15:17:10 -0400
 permalink:  the_freedom_of_constraint
 ---
 
