@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ready or Not, Here it Comes!"
-date:       2018-12-04 16:26:31 +0000
+date:       2018-12-04 11:26:31 -0500
 permalink:  ready_or_not_here_it_comes
 ---
 
